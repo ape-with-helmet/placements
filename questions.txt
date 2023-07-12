@@ -1,0 +1,7 @@
+2. any five digit no is entered in a integer variable. write program to print sum of third and fourth digit;
+3. no of hours is entered by user in decimal. write a program to convert it into no of hours and minutes without type casting
+4. cashier has denominatins os 100 50 10 and 1 coins. user enters change he wants. output minimum possible notes to be given
+5. flip 0 and 1 in a given binary number(convert from decimal) and output decimal representaton.
+6. LCM of n numbers entered by user.
+7. total no of vehicles given. no of tyres given, find how many bikes and cars can be made.
+8. 21 matches and the first chance go to user. and make sure last match is picked by user.
